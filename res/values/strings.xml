@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StudentApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string-array name="drawer_list_array">
+        <item >Home</item>
+        <item >Lessons</item>
+        <item >Messages</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_menu_home</item>
+        <item>@drawable/ic_menu_lesson</item>
+        <item>@drawable/ic_menu_messages</item>
+        
+    </array>
+
+</resources>
